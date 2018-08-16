@@ -16,6 +16,10 @@ This is the output path for all of the rendered gifs.
 
 **NOTE:** Each rendered gif will be placed within its own subdirectory within this path. The name of this subdirectory is the same as the code-name used by NOAA. A list of these codes can be found below.
 
+## NOAA_ANIMATE_FRAME_DELAY
+
+The delay between each frame in the resulting GIF animation. This is measured in ticks. A GIF has 100 ticks/second, so a value of 100 is 1 second and 50 is 1/2 of a second. 
+
 ## The Various Map Types
 
 Each map type has two configuration options associated with it. 
