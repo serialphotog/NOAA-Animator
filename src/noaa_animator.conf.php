@@ -32,8 +32,7 @@
  define('NOAA_ANIMATE_STATE', 'kentucky');
 
  // The output path where the animations will be saved to
- //define('NOAA_ANIMATE_OUTPUT_PATH', '/var/www/html/noaa-animate');
- define('NOAA_ANIMATE_OUTPUT_PATH', '/home/adam/test/');
+ define('NOAA_ANIMATE_OUTPUT_PATH', '/var/www/html/noaa-animate');
 
  // The delay between each frame in the animation
  // This is measured in 'ticks'. GIFs have 100 ticks/second. 
